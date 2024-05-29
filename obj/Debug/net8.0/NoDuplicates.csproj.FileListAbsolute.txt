@@ -1,0 +1,14 @@
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\bin\Debug\net8.0\NoDuplicates.exe
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\bin\Debug\net8.0\NoDuplicates.deps.json
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\bin\Debug\net8.0\NoDuplicates.runtimeconfig.json
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\bin\Debug\net8.0\NoDuplicates.dll
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\bin\Debug\net8.0\NoDuplicates.pdb
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\obj\Debug\net8.0\NoDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\obj\Debug\net8.0\NoDuplicates.AssemblyInfoInputs.cache
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\obj\Debug\net8.0\NoDuplicates.AssemblyInfo.cs
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\obj\Debug\net8.0\NoDuplicates.csproj.CoreCompileInputs.cache
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\obj\Debug\net8.0\NoDuplicates.dll
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\obj\Debug\net8.0\refint\NoDuplicates.dll
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\obj\Debug\net8.0\NoDuplicates.pdb
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\obj\Debug\net8.0\NoDuplicates.genruntimeconfig.cache
+F:\SD\EraaSoft\Tasks\s4\NoDuplicates\obj\Debug\net8.0\ref\NoDuplicates.dll
